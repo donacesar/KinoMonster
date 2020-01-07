@@ -40,6 +40,11 @@
 	color: #999;
 }
 
+.menubar {
+	width: 900px;
+	height: 46px;	
+}
+
 ul.menu {
 	float: right;
 }
